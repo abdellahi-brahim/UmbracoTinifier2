@@ -16,7 +16,7 @@ namespace Umbraco8.Components
     {
         public MapHttpRoutesComponent()
         {
-            GlobalConfiguration.Configuration.MapHttpAttributeRoutes();
+            // GlobalConfiguration.Configuration.MapHttpAttributeRoutes();
 
         }
         // initialize: runs once when Umbraco starts
